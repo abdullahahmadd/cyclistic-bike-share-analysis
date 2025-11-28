@@ -201,8 +201,8 @@ Common casual rider locations:
 ![avg_ride_length_R](Cylistic_analysis_results/avg_ride_length_R.png)  
 **Casual riders take significantly longer rides.**
 
-#### Average Ride Length by Day of Week  
-![avg_ride_length_by_week_of_day_R](Cylistic_analysis_results/avg_ride_length_by_week_of_day_R.png)  
+#### Average Ride Length by Day of Week
+![avg_ride_length_by_week_of_day_R](Cylistic_analysis_results/avg_ride_length_R.png)  
 **Highlights weekday vs weekend differences.**
 
 #### Number of Rides by Day  
