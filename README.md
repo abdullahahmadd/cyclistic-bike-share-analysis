@@ -106,7 +106,6 @@ Cyclistic aims to **convert casual riders into annual members** using targeted m
 ![total_rows_sql](Cylistic_analysis_results/total_rows_sql.png)  
 
 #### **Missing Values Check** 
-Cylistic_analysis_results/missing_values_sql.png
 ![missing_values_sql](Cylistic_analysis_results/missing_values_sql.png)  
 
 #### **First 10 Rows Preview**  
