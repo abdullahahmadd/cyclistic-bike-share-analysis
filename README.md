@@ -2,9 +2,9 @@
 ### *Excel • SQL • R | End-to-End Data Analytics Project*
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.cyclistic-bike-share-case-study)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=database&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=database&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ---
 
