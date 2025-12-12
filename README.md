@@ -13,12 +13,14 @@
 1. [Overview](#-overview)  
 2. [Project Files](#-project-files)  
 3. [Dataset Story](#-dataset-story)  
-4. [ASK Phase — Define the Business Task](#-ask-phase-define-the-business-task)  
-5. [PREPARE Phase — Data Source & Credibility](#-prepare-phase--data-source--credibility)  
-6. [PROCESS Phase — Cleaning & Feature Engineering](#-process-phase--cleaning--feature-engineering)  
-7. [ANALYZE Phase — Key Findings](#-analyze-phase--key-findings)  
-8. [SHARE Phase — Visualizations](#-share-phase--visualizations)    
-9. [ACT Phase — Final Recommendations](#-act-phase--final-recommendations)  
+4. [Tools & Technologies Used](#tools--technologies-used)  
+5. [Skills Demonstrated](#skills-demonstrated)  
+6. [ASK Phase — Define the Business Task](#-ask-phase--define-the-business-task)  
+7. [PREPARE Phase — Data Source & Credibility](#-prepare-phase--data-source--credibility)  
+8. [PROCESS Phase — Cleaning & Feature Engineering](#-process-phase--cleaning--feature-engineering)  
+9. [ANALYZE Phase — Key Findings](#-analyze-phase--key-findings)  
+10. [SHARE Phase — Visualizations](#-share-phase--visualizations)    
+11. [ACT Phase — Final Recommendations](#-act-phase--final-recommendations) 
 
 ---
 
@@ -64,6 +66,28 @@ Work was performed in **Excel**, **MySQL**, and **RStudio (tidyverse, lubridate,
 **R:** `weekday`, `started_hour_new`, `started_month_new`, `started_date`, `is_weekend`
 
 These engineered features allowed deeper behavioral analysis.
+
+---
+
+## ⚙️ Tools & Technologies Used
+
+- **Microsoft Excel** – preprocessing, feature engineering, pivot tables, dashboards  
+- **MySQL 8.0 Workbench** – data cleaning, datetime parsing, SQL aggregations  
+- **RStudio** – data wrangling, statistical summaries, ggplot2 visualizations  
+- **tidyverse, dplyr, lubridate, ggplot2** – robust data manipulation and plotting  
+- **GitHub** – project documentation  
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Data Cleaning & Preparation  
+- Feature Engineering  
+- SQL Aggregations & Date/Time Manipulation  
+- R Programming (tidyverse pipelines)  
+- Data Visualization (Excel & ggplot2)  
+- Exploratory Data Analysis (EDA)    
+- Reporting & Documentation
 
 ---
 
