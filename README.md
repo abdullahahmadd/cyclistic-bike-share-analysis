@@ -13,7 +13,7 @@
 1. [Overview](#-overview)  
 2. [Project Files](#-project-files)  
 3. [Dataset Story](#-dataset-story)  
-4. [Tools & Technologies Used](#tools----technologies-used)  
+4. [Tools & Technologies](#-tools--technologies)  
 5. [Skills Demonstrated](#-skills-demonstrated)  
 6. [ASK Phase — Define the Business Task](#-ask-phase--define-the-business-task)  
 7. [PREPARE Phase — Data Source & Credibility](#-prepare-phase--data-source--credibility)  
@@ -69,7 +69,7 @@ These engineered features allowed deeper behavioral analysis.
 
 ---
 
-## ⚙️ Tools & Technologies Used
+## ⚙️ Tools & Technologies
 
 - **Microsoft Excel** – preprocessing, feature engineering, pivot tables, dashboards  
 - **MySQL 8.0 Workbench** – data cleaning, datetime parsing, SQL aggregations  
