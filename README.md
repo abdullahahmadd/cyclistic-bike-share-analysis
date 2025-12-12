@@ -69,7 +69,7 @@ These engineered features allowed deeper behavioral analysis.
 
 ---
 
-## ⚙️ Tools & Technologies
+## ⚙️ Tools & Technologies Used
 
 - **Microsoft Excel** – preprocessing, feature engineering, pivot tables, dashboards  
 - **MySQL 8.0 Workbench** – data cleaning, datetime parsing, SQL aggregations  
