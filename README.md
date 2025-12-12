@@ -120,7 +120,7 @@ Cyclistic aims to **convert casual riders into annual members** using targeted m
 
 ## 🧹 PROCESS Phase — Cleaning & Feature Engineering
 
-### I. Excel
+## 1. Excel
 - Converted timestamps  
 - Calculated ride length  
 - Added weekday, hour, and month columns  
@@ -128,7 +128,7 @@ Cyclistic aims to **convert casual riders into annual members** using targeted m
 
 ---
 
-### II. SQL (MySQL 8.0 Workbench)
+## 2. SQL (MySQL 8.0 Workbench)
   
 All SQL outputs are stored in the `Cylistic_analysis_results/` folder.
 
@@ -210,7 +210,7 @@ All SQL outputs are stored in the `Cylistic_analysis_results/` folder.
 
 ---
 
-### III. R (tidyverse + lubridate)
+## 3. R (RStudio)
 - Cleaned names  
 - Parsed timestamps  
 - Calculated duration  
@@ -222,22 +222,22 @@ All SQL outputs are stored in the `Cylistic_analysis_results/` folder.
 
 ## 📊 ANALYZE Phase — Key Findings
 
-### I. **Ride Duration**
+### 1. **Ride Duration**
 - Casual riders have **longer rides** (~388 mins avg)  
 - Members take **shorter, more consistent rides** (~279 mins avg)
 
-### II. **Usage Volume**
+### 2. **Usage Volume**
 - Members contribute **over 90% of all rides**
 
-### III. **Day Patterns**
+### 3. **Day Patterns**
 - Casuals: **mid-week + weekend peaks**  
 - Members: **weekday stable usage (commuting)**  
 
-### IV. **Hourly Patterns**
+### 4. **Hourly Patterns**
 - Members peak: **7–9 AM** & **4–6 PM**  
 - Casuals: **mid-day & afternoon**  
 
-### V. **Geographic Hotspots**
+### 5. **Geographic Hotspots**
 Common casual rider locations:  
 - Michigan Ave & Washington St  
 - Millennium Park  
@@ -247,7 +247,7 @@ Common casual rider locations:
 
 ## 📈 SHARE Phase — Visualizations
 
-## I. Excel Visualizations
+## 1. Excel Visualizations
 
 | Excel Dashboard |
 |----------------|
@@ -256,7 +256,7 @@ Common casual rider locations:
 
 ---
 
-## II. R Visualizations
+## 2. R Visualizations
 
 | 1. Ride Length Summary |
 |--------------------------------------|
@@ -301,16 +301,16 @@ Common casual rider locations:
 
 ## 🧭 ACT Phase — Final Recommendations
 
-### I. **Target casual riders at leisure-heavy stations**  
+## 1. **Target casual riders at leisure-heavy stations**  
 Focus: Millennium Park, Lakefront, Michigan Ave.  
 Use QR codes, app offers, and tourist-focused promotions.
 
-### II. **Introduce weekend / tourist-friendly membership options**  
+## 2. **Introduce weekend / tourist-friendly membership options**  
 Examples:  
 - **Weekend Unlimited Pass**  
 - **Tourist → Monthly Upgrade Discount**
 
-### III. **Leverage digital media to convert casual riders**  
+## 3. **Leverage digital media to convert casual riders**  
 Highlight:  
 - Cost savings  
 - Convenience  
