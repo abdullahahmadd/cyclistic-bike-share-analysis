@@ -9,18 +9,19 @@
 ---
 
 # Table of Contents  
-  
+
 1. [Overview](#-overview)  
 2. [Project Files](#-project-files)  
 3. [Dataset Story](#-dataset-story)  
-4. [Tools and Technologies Used](#-tools-and-technologies-used)  
-5. [Skills Demonstrated](#-skills-demonstrated)  
-6. [ASK Phase — Define the Business Task](#-ask-phase--define-the-business-task)  
-7. [PREPARE Phase — Data Source and Credibility](#prepare-phase--data-source-and-credibility)  
-8. [PROCESS Phase — Cleaning and Feature Engineering](#-process-phase--cleaning-and-feature-engineering)  
-9. [ANALYZE Phase — Key Findings](#-analyze-phase--key-findings)  
-10. [SHARE Phase — Visualizations](#-share-phase--visualizations)  
-11. [ACT Phase — Final Recommendations](#-act-phase--final-recommendations)
+4. [Tools and Technologies Used](#-tools--technologies-used)  
+5. [Libraries Used](#-libraries-used)  
+6. [Skills Demonstrated](#-skills-demonstrated)  
+7. [ASK Phase — Define the Business Task](#-ask-phase--define-the-business-task)  
+8. [PREPARE Phase — Data Source and Credibility](#-prepare-phase--data-source--credibility)  
+9. [PROCESS Phase — Cleaning and Feature Engineering](#-process-phase--cleaning-and-feature-engineering)  
+10. [ANALYZE Phase — Key Findings](#-analyze-phase--key-findings)  
+11. [SHARE Phase — Visualizations](#-share-phase--visualizations)  
+12. [ACT Phase — Final Recommendations](#-act-phase--final-recommendations)
 
 ---
 
@@ -71,11 +72,18 @@ These engineered features allowed deeper behavioral analysis.
 
 ## ⚙️ Tools & Technologies Used
 
-- **Microsoft Excel** – preprocessing, feature engineering, pivot tables, dashboards  
-- **MySQL 8.0 Workbench** – data cleaning, datetime parsing, SQL aggregations  
-- **RStudio** – data wrangling, statistical summaries, ggplot2 visualizations  
-- **tidyverse, dplyr, lubridate, ggplot2** – robust data manipulation and plotting  
-- **GitHub** – project documentation  
+- Microsoft Excel  
+- MySQL Workbench   
+- RStudio  
+
+---
+
+## 📚 Libraries Used
+
+- tidyverse  
+- dplyr  
+- lubridate  
+- ggplot2  
 
 ---
 
