@@ -10,17 +10,19 @@
 
 # Table of Contents  
 
+# Table of Contents  
+
 - [📌 Overview](#-overview)  
-- [2. Project Files](#2-project-files)  
-- [3. Dataset Story](#3-dataset-story)  
-- [4. Tools and Technologies Used](#4-tools-and-technologies-used)  
-- [5. Skills Demonstrated](#5-skills-demonstrated)  
-- [6. ASK Phase — Define the Business Task](#6-ask-phase--define-the-business-task)  
-- [7. PREPARE Phase — Data Source and Credibility](#7-prepare-phase--data-source-and-credibility)  
-- [8. PROCESS Phase — Cleaning and Feature Engineering](#8-process-phase--cleaning-and-feature-engineering)  
-- [9. ANALYZE Phase — Key Findings](#9-analyze-phase--key-findings)  
-- [10. SHARE Phase — Visualizations](#10-share-phase--visualizations)  
-- [11. ACT Phase — Final Recommendations](#11-act-phase--final-recommendations)
+- [📂 Project Files](#-project-files)  
+- [🧵 Dataset Story](#-dataset-story)  
+- [⚙️ Tools and Technologies Used](#-tools-and-technologies-used)  
+- [🎯 Skills Demonstrated](#-skills-demonstrated)  
+- [🧠 ASK Phase — Define the Business Task](#-ask-phase--define-the-business-task)  
+- [🗄 PREPARE Phase — Data Source and Credibility](#-prepare-phase--data-source-and-credibility)  
+- [🧹 PROCESS Phase — Cleaning and Feature Engineering](#-process-phase--cleaning-and-feature-engineering)  
+- [📊 ANALYZE Phase — Key Findings](#-analyze-phase--key-findings)  
+- [📈 SHARE Phase — Visualizations](#-share-phase--visualizations)  
+- [🧭 ACT Phase — Final Recommendations](#-act-phase--final-recommendations)
 
 ---
 
@@ -38,7 +40,7 @@ Work was performed in **Excel**, **MySQL**, and **RStudio (tidyverse, lubridate,
 
 ---
 
-## 2. 📂 Project Files
+## 📂 Project Files
 
 | File Name | Description |
 |-----------|-------------|
@@ -49,7 +51,7 @@ Work was performed in **Excel**, **MySQL**, and **RStudio (tidyverse, lubridate,
 
 ---
 
-## 3. 🧵 Dataset Story
+## 🧵 Dataset Story
 
 ### **Original Attributes (Raw Dataset)**
 - `ride_id`, `rideable_type`  
@@ -69,7 +71,7 @@ These engineered features allowed deeper behavioral analysis.
 
 ---
 
-## 4. ⚙️ Tools & Technologies Used
+## ⚙️ Tools & Technologies Used
 
 - **Microsoft Excel** – preprocessing, feature engineering, pivot tables, dashboards  
 - **MySQL 8.0 Workbench** – data cleaning, datetime parsing, SQL aggregations  
@@ -79,7 +81,7 @@ These engineered features allowed deeper behavioral analysis.
 
 ---
 
-## 5. 🎯 Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 - Data Cleaning & Preparation  
 - Feature Engineering  
@@ -91,7 +93,7 @@ These engineered features allowed deeper behavioral analysis.
 
 ---
 
-## 6. 🧠 ASK Phase — Define the Business Task
+## 🧠 ASK Phase — Define the Business Task
 
 **Key Question:**  
 > How do annual members and casual riders use Cyclistic bikes differently?
@@ -100,7 +102,7 @@ Cyclistic aims to **convert casual riders into annual members** using targeted m
 
 ---
 
-## 7. 🗄 PREPARE Phase — Data Source & Credibility
+## 🗄 PREPARE Phase — Data Source & Credibility
 
 - Dataset: Divvy Q1 2020 public data  
 - License: Motivate International Inc.  
@@ -110,7 +112,7 @@ Cyclistic aims to **convert casual riders into annual members** using targeted m
 
 ---
 
-## 8. 🧹 PROCESS Phase — Cleaning & Feature Engineering
+## 🧹 PROCESS Phase — Cleaning & Feature Engineering
 
 ### I. Excel
 - Converted timestamps  
@@ -212,7 +214,7 @@ All SQL outputs are stored in the `Cylistic_analysis_results/` folder.
 
 ---
 
-## 9. 📊 ANALYZE Phase — Key Findings
+## 📊 ANALYZE Phase — Key Findings
 
 ### I. **Ride Duration**
 - Casual riders have **longer rides** (~388 mins avg)  
@@ -237,7 +239,7 @@ Common casual rider locations:
 
 ---
 
-## 10. 📈 SHARE Phase — Visualizations
+## 📈 SHARE Phase — Visualizations
 
 ## I. Excel Visualizations
 
@@ -291,7 +293,7 @@ Common casual rider locations:
 | Lists the most frequently used start stations categorized by rider type. |
 ---
 
-## 11. 🧭 ACT Phase — Final Recommendations
+## 🧭 ACT Phase — Final Recommendations
 
 ### I. **Target casual riders at leisure-heavy stations**  
 Focus: Millennium Park, Lakefront, Michigan Ave.  
