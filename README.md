@@ -14,7 +14,7 @@
 2. [Project Files](#-project-files)  
 3. [Dataset Story](#-dataset-story)  
 4. [ASK Phase — Define the Business Task](#-ask--define-the-business-task)  
-5. [PREPARE Phase — Data Source & Credibility](#-prepare--data-source--credibility)  
+5. [PREPARE Phase — Data Source & Credibility](#-prepare-phase--data-source--credibility)  
 6. [PROCESS Phase — Cleaning & Feature Engineering](#-process--cleaning--feature-engineering)  
 7. [ANALYZE Phase — Key Findings](#-analyze--key-findings)  
 8. [SHARE Phase — Visualizations](#-share--visualizations)    
