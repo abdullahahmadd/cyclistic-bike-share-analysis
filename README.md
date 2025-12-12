@@ -16,7 +16,7 @@
 4. [Tools and Technologies Used](#-tools-and-technologies-used)  
 5. [Skills Demonstrated](#-skills-demonstrated)  
 6. [ASK Phase — Define the Business Task](#-ask-phase--define-the-business-task)  
-7. [PREPARE Phase — Data Source and Credibility](#prepare-phase---data-source-and-credibility)  
+7. [PREPARE Phase — Data Source and Credibility](#-prepare-phase---data-source-and-credibility)  
 8. [PROCESS Phase — Cleaning and Feature Engineering](#process-phase---cleaning-and-feature-engineering)  
 9. [ANALYZE Phase — Key Findings](#-analyze-phase--key-findings)  
 10. [SHARE Phase — Visualizations](#-share-phase--visualizations)  
