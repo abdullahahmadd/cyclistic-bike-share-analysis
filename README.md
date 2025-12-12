@@ -13,12 +13,12 @@
 1. [Overview](#-overview)  
 2. [Project Files](#-project-files)  
 3. [Dataset Story](#-dataset-story)  
-4. [ASK Phase — Define the Business Task](#-ask--define-the-business-task)  
+4. [ASK Phase — Define the Business Task](#-ask-phase-define-the-business-task)  
 5. [PREPARE Phase — Data Source & Credibility](#-prepare-phase--data-source--credibility)  
-6. [PROCESS Phase — Cleaning & Feature Engineering](#-process--cleaning--feature-engineering)  
-7. [ANALYZE Phase — Key Findings](#-analyze--key-findings)  
-8. [SHARE Phase — Visualizations](#-share--visualizations)    
-9. [ACT Phase — Final Recommendations](#-act--final-recommendations)  
+6. [PROCESS Phase — Cleaning & Feature Engineering](#-process-phase--cleaning--feature-engineering)  
+7. [ANALYZE Phase — Key Findings](#-analyze-phase--key-findings)  
+8. [SHARE Phase — Visualizations](#-share-phase--visualizations)    
+9. [ACT Phase — Final Recommendations](#-act-phase--final-recommendations)  
 
 ---
 
