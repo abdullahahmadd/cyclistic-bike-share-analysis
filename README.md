@@ -102,53 +102,84 @@ Cyclistic aims to **convert casual riders into annual members** using targeted m
 ---
 
 ### SQL (MySQL 8.0 Workbench)
+  
+All SQL outputs are stored in the `Cylistic_analysis_results/` folder.
 
-| Result | Preview |
-|--------|---------|
+| 1. Total Rows Loaded |
+|----------------------|
+| ![Total Rows](Cylistic_analysis_results/total_rows_sql.png) |
+| Shows the number of successfully imported rows in MySQL after loading the dataset. |
 
-| **Total Rows Loaded**  
-*Shows the number of records successfully imported into the SQL table.* |  
-![total_rows_sql](Cylistic_analysis_results/total_rows_sql.png) |
+---
 
-| **Missing Values Check**  
-*Displays the count of null or missing entries across all columns.* |  
-![missing_values_sql](Cylistic_analysis_results/missing_values_sql.png) |
+| 2. Missing Values Check |
+|-------------------------|
+| ![Missing Values](Cylistic_analysis_results/missing_values_sql.png) |
+| Displays the count of missing or NULL values across all dataset columns. |
 
-| **First 10 Rows Preview**  
-*Provides an initial snapshot of how the cleaned dataset looks inside MySQL.* |  
-![10_rows_sql](Cylistic_analysis_results/10_rows_sql.png) |
+---
 
-| **Average Ride Duration (SQL)**  
-*Shows the computed mean ride duration for all rides.* |  
-![avg_ride_minutes_sql](Cylistic_analysis_results/avg_ride_minutes_sql.png) |
+| 3. First 10 Rows Preview |
+|--------------------------|
+| ![Preview 10 Rows](Cylistic_analysis_results/10_rows_sql.png) |
+| Shows a preview of the first 10 rows to verify data formatting and integrity. |
 
-| **Maximum Ride Duration**  
-*Identifies the longest ride duration recorded in the dataset.* |  
-![max_ride_minutes](Cylistic_analysis_results/max_ride_minutes.png) |
+---
 
-| **Ride Length in Seconds & Minutes**  
-*Displays converted ride-length values for easier aggregation.* |  
-![ride_length_and_secs_sql](Cylistic_analysis_results/ride_length_and_secs_sql.png) |
+| 4. Average Ride Duration (SQL) |
+|--------------------------------|
+| ![Average Ride Duration](Cylistic_analysis_results/avg_ride_minutes_sql.png) |
+| Calculates the mean ride duration across all rides using SQL aggregate functions. |
 
-| **Most Active Day of Week**  
-*Reveals the day with the highest ride frequency.* |  
-![hightest_day_of_week_sql](Cylistic_analysis_results/hightest_day_of_week_sql.png) |
+---
 
-| **Avg Ride Duration: Member vs Casual**  
-*Compares the average ride length between casual users and annual members.* |  
-![member_casual_avg_ride_mints_sql](Cylistic_analysis_results/member_casual_avg_ride_mints_Sql.png) |
+| 5. Maximum Ride Duration |
+|---------------------------|
+| ![Max Ride Duration](Cylistic_analysis_results/max_ride_minutes.png) |
+| Identifies the longest ride duration recorded in the dataset. |
 
-| **Total Rides: Member vs Casual**  
-*Shows the number of rides taken by each rider category.* |  
-![member_casual_total_rides_sql](Cylistic_analysis_results/member_casual_total_rides_sql.png) |
+---
 
-| **Hourly Ride Distribution**  
-*Illustrates peak riding hours across user types.* |  
-![hightest_rides_by_hour_sql](Cylistic_analysis_results/hightest_rides_by_hour_sql.png) |
+| 6. Ride Length (Seconds & Minutes) |
+|------------------------------------|
+| ![Ride Length in Seconds](Cylistic_analysis_results/ride_length_and_secs_sql.png) |
+| Shows computed ride lengths converted into seconds and minutes for deeper analysis. |
 
-| **Monthly Ride Distribution**  
-*Shows which month has the highest trip volume.* |  
-![hightest_rides_by_month_sql](Cylistic_analysis_results/hightest_rides_by_month_sql.png) |  
+---
+
+| 7. Most Active Day of Week |
+|-----------------------------|
+| ![Most Active Day](Cylistic_analysis_results/hightest_day_of_week_sql.png) |
+| Reveals which weekday had the highest number of total rides. |
+
+---
+
+| 8. Avg Ride Duration — Member vs Casual |
+|-----------------------------------------|
+| ![Avg Ride Duration User Type](Cylistic_analysis_results/member_casual_avg_ride_mints_Sql.png) |
+| Compares average ride duration between casual riders and annual members. |
+
+---
+
+| 9. Total Rides — Member vs Casual |
+|-----------------------------------|
+| ![Total Rides User Type](Cylistic_analysis_results/member_casual_total_rides_sql.png) |
+| Displays total trip counts for each rider category (member vs casual). |
+
+---
+
+| 10. Hourly Ride Distribution |
+|------------------------------|
+| ![Hourly Ride Distribution](Cylistic_analysis_results/hightest_rides_by_hour_sql.png) |
+| Shows peak riding hours, indicating commuting and leisure time patterns. |
+
+---
+
+| 11. Monthly Ride Distribution |
+|-------------------------------|
+| ![Monthly Ride Distribution](Cylistic_analysis_results/hightest_rides_by_month_sql.png) |
+| Displays the number of rides per month to highlight seasonal trends. |
+  
 
 ---
 
